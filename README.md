@@ -1,2 +1,2 @@
 # training
-la buena segunda prueba del reset
+el cambio de la nueva rama
