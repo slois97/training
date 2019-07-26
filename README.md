@@ -1,2 +1,2 @@
 # training
-la buena prueba
+la buena segunda prueba
