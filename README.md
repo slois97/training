@@ -1,3 +1,3 @@
 # training
 
-la buena segunda prueba del reset como master
+la buena segunda prueba del reset como maestro
